@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="2cb7f6c8-985e-4bf1-b3e6-0b79a6d77500" name="PersonDB.sqlite Mapping">
+      <data-sources db="5ae05541-3ffd-4dc1-bafd-cc29e2f1f1ea" ddl="a5622482-1112-4d82-8075-198962e3623e" />
+      <scope>
+        <node kind="database" negative="1" />
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="a5622482-1112-4d82-8075-198962e3623e" />
+          <option name="name" value="PersonDB.sqlite (DDL)" />
+          <option name="dbmsName" value="SQLITE" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$" />
+            </array>
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
